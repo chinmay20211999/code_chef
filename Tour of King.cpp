@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int t,n,m;
+	cin>>t;
+	while(t--){
+	    cin>>n;
+	    cin>>m;
+	    cout<<n*5+m*7<<endl;
+	}
+	return 0;
+}
