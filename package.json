@@ -1,0 +1,19 @@
+{
+  "name": "hackrank_dsa_question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekkumar854301/hackrank_dsa_question.git"
+  },
+  "author": "viveksingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekkumar854301/hackrank_dsa_question/issues"
+  },
+  "homepage": "https://github.com/vivekkumar854301/hackrank_dsa_question#readme"
+}
